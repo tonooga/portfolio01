@@ -8,4 +8,6 @@ I could have use one off-the-shelf website from commercial suppliers but I decid
 Date | Item/Feature | Description | Status | Date Completed
 --- | --- | --- | --- | ---
 2026.01.15 | Start Project | Capture of outline, parts, architecture | 90% | --
+2026.02.18 | Article Update | Building template for articles | 90% | --
+
 
