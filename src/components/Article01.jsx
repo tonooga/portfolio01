@@ -2,8 +2,8 @@ import React from 'react'
 import Hero from './Hero'
 import { FaMapMarker, FaCalendarAlt, FaBook, FaBookReader } from 'react-icons/fa'
 import articles from '../../data/articles.json'
-import photo_cover from '../assets/images/missing_train_5x4.png'
-import photo_author from '../assets/foto_jo_2.jpeg'
+import photo_cover from '/src/assets/images/missing_train_5x4.png'
+import photo_author from '/src/assets/foto_jo_2.jpeg'
 
 const Article01 = () => {
     const article = articles[0]
