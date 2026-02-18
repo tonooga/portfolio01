@@ -46,7 +46,7 @@ const Article01 = () => {
                                                         <div className='flex items-center gap-4'>
                                                             <a>
                                                                 <span className='relative flex shrink-0 overflow-hidden rounded-full h-8 w-8 border border-border transition-opacity hover:opacity-80'>
-                                                                    <img className='aspect-square h-full w-full' src='../src/assets/foto_JO_2.jpeg'/>
+                                                                    <img className='aspect-square h-full w-full' src='/src/assets/foto_JO_2.jpeg'/>
                                                                 </span>
                                                             </a>
                                                             <a className='hover:text-primary transition-colors'>
