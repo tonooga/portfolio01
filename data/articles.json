@@ -1,0 +1,52 @@
+[
+{
+    "article_nbr": "0",
+    "title": "Missing the train of the Digital Transformation",
+    "subtitle": "How to avoid the pitfalls of digital transformation and leverage data science for sustainable growth",
+    "date_created": "2024-02-04",
+    "date_updated": "2024-02-18",
+    "author": "J.Antonio Oga",
+    "themes": ["Digital Transformation"],
+    "tags": ["innovation", "digital transformation", "data science", "business strategy"],
+    "content": [
+        {
+            "section": "Background",
+            "text": ["As a textbook example of innovation, the story of Deutsche Bahn - a german railway company - and its digital transformation took as one of the main pillars the on boarding of many processes within their organization. And this is the hardest part in any innovation process. A digital transformation is not only about deployment of technology. It is about a change in the mindset and embrace a different way of seeing things from the very foundations. It is revisiting all the processes and get rid of waste and whatever is not added value for our customers.",
+            "In my article 'If safety is first, what comes second?' I related the need of investing time and resources on innovation in the function of an organization with most impact. The main challenge is of course to decide in which of all the departments we are to start making this transformation. But wherever you decide to start, it should be done gradually. In Sales & Commercial, for example, the function can benefit of a big change that transforms their processes, especially in the B2B arena. For instance to generate more proposals in shorter time.",
+            "Back in 2021, Accenture reported that 51% of their customers who deployed AI solutions where successful and highly successful. Today this figure is much higher, but still many organizations are struggling to find the right path to digital transformation. The main reason is that they try to do too much at once, and end up losing focus and not achieving any significant result. It is better to start small, with a pilot project that can demonstrate the value of the digital transformation, and then scale up from there.",
+            "To have a reference on which companies have successfully started their journey Accenture reports that 51% of their customers who deployed AI solutions were successful and highly successful. On the other hand McKinsey Analytics reports that **70% of transformation programs fail to achieve their goals, largely due to employee resistance and lack of management support.**"
+            ]
+        },
+        {
+            "section": "From clauses to pricing",
+            "text": ["This is more relevant in markets where the volume of transactions is high (in the order of hundreds to thousands of commercial proposals and even more field tickets to be invoiced monthly). But it is relevant also as you want to have a global vision of your business. In our commercial team in Schlumberger we aimed to prepare our databases in a way that we could have visibility of trends, critical clauses, acceptance or rejection of terms and conditions and so forth. We used to have a zoom in and out of our contract clauses to take the best possible decision on – for example – where to negotiate, and where to concede. In other words, using a Data Analytics mindset to support our business decisions. Let us discuss briefly in two major fronts:"]
+        },
+        {
+            "section": "Clauses",
+            "text": ["In contracts, think metadata, think in key words, key phrases. Starting from the direct application of NLP (Natural Language Processing) in your documentation related to tenders, proposals, and contracts. For both building of new proposals and for the identification of key clauses in tender preparation as well as contract auditing. Of course, more and more people talk about Machine Learning or AI, but there is no magic there (there never was). All it is, is the combination of good understanding of the business and the processes and a sound Data Analytics service (and a lot of mathematics and statistics there, a lot!). When you talk to these guys, you will surely hear about tokenizing, lemmatization or pattern matching. This will surely be the starting of the conversation once you take the lead going in this direction.",
+            "In contracts department, for example, digitalization of contracts is a good start, capture of all metadata so it can be searchable at minimum. It is recommendable to assign a champion on each division or product line to ensure the critical specific metadata is captured or text recognition is implemented in a way that you can start statistics and above all, be prepared for a next phase which would be implementation of NLP processes and later on machine learning. It is paramount to have the business objective clear: In this case for example, an objective could be: targeting top 5 clauses that may hit our contract execution in great manner."
+            ]
+        },
+        {
+            "section": "Setting reasonable Goals towards Digitalization",
+            "text": ["You don't need to buy the greatest tool because it probably does not exist, yet. But you can start by engaging your commercial team in setting goals around this transformation. i.e. Dictionary definition of all commercial contracts of the top 3 divisions (either by revenue or by frequency of contracts). This dictionary may consist in key topics or key parameters around most critical commercial risks that if no attention is paid, major cost impact can impact the P&L. This dictionary can also be detailed with key words.",
+            "As there is always three major group of clauses, namely legal, commercial and hybrid* you may want to assign in parallel two teams, one legal and one commercial, each group to define their respective dictionaries and then get together to define the hybrid group or dynamic pricing for products and services doing a connection with equipment and personnel availability or workload, and with inventory levels in the case of products, or making a direct link with raw material suppliers for inventory optimization.",
+            "On dynamic pricing, there are namely three fronts: (1) There is literally a mine of data in the Finance department (data from invoicing and collection) related to the actual execution of the contract in a way that can well be compared with the expectations from the contract during the tendering phase and correct from both errors in the invoicing itself and/or divergences from what was intended at the contract negotiation. Many times there is information here that is overseen. (2) During the tender preparation, price references from current contracts and from win and lost opportunities can be a data lake from which analytics can give us statistic insights on trends. In the case where commodities are handled, this data lake has to have a direct link with inventory levels and supply chain latest negotiations."
+            ]
+        },
+        {
+            "section": "Call for Action, Start today",
+            "text": ["As you can see, the explained above is a full time job, that either can be performed by a team or by a sounded data science specialist fed with the insights of the commercial team. So you can take two roads, or train your current Commercial Team in the basics of Data Science – we live in the age of information, there is no way you cannot find a way to self-train your team with even. This discussion (Digital) will not definitely end soon. It is in fact, especially for some industries, only starting to stay for long. Do not miss the train"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "text": "If safety is first, what comes second?",
+            "url": "https://www.linkedin.com/pulse/safety-first-what-comes-second-jose-a-oga/"
+        }
+    ],
+    "photo_url": "\\src\\assets\\images\\missing_train_5x4.png",
+    "photo_alt": "missing_train_5x4"
+}
+]

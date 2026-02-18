@@ -1,0 +1,18 @@
+[
+{
+    "version": "0",
+    "intro": "I design and build analytics solutions, data‑driven applications, and software systems that support real decisions. From concept to execution.",
+    "services": [{
+        "title": "Data Analytics",
+        "description": "From data gathering, exploratory analysis to decision‑support models, I help organizations understand what their data is really telling them. It's not business intelligence, it's business insights and predictions. Statistical analysis with most advanced mathematical models and techniques."
+    },
+    {
+        "title": "Software & Data Apps",
+        "description": "Full‑stack development of analytics‑driven applications, from Database design, APIs, and automation pipelines deployed in production environments. React, Node.js, Python, SQL, R, SAS, and much more. I build software that turns data into actionable insights and seamless user experiences."
+    },
+    {
+        "title": "Database & Systems Design",
+        "description": "Robust data models and architectures designed for scalability, maintainability, and business evolution. I walk hand in hand with clients to understand their needs and design systems that grow with them."
+    }]
+}
+]
