@@ -3,7 +3,7 @@ import Hero from './Hero'
 import { FaMapMarker, FaCalendarAlt, FaBook, FaBookReader } from 'react-icons/fa'
 import articles from '../../data/articles.json'
 import photo_cover from '../assets/images/missing_train_5x4.png'
-// import photo_author from '../assets/foto_jo_2.jpeg'
+import photo_author from '../assets/images/foto_jo_2.jpeg'
 
 const Article01 = () => {
     const article = articles[0]
@@ -49,8 +49,8 @@ const Article01 = () => {
                                                         <div className='flex items-center gap-4'>
                                                             <a>
                                                                 <span className='relative flex shrink-0 overflow-hidden rounded-full h-8 w-8 border border-border transition-opacity hover:opacity-80'>
-                                                                    <img className='aspect-square h-full w-full' src='/src/assets/foto_jo_2.jpeg'/>
-                                                                    {/* <img className='aspect-square h-full w-full' src={photo_author}/> */}
+                                                                    {/* <img className='aspect-square h-full w-full' src='/src/assets/foto_jo_2.jpeg'/> */}
+                                                                    <img className='aspect-square h-full w-full' src={photo_author}/>
                                                                 </span>
                                                             </a>
                                                             <a className='hover:text-primary transition-colors'>
