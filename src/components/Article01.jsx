@@ -2,7 +2,8 @@ import React from 'react'
 import Hero from './Hero'
 import { FaMapMarker, FaCalendarAlt, FaBook, FaBookReader } from 'react-icons/fa'
 import articles from '../../data/articles.json'
-import photo from '../assets/images/missing_train_5x4.png'
+import photo_cover from '../assets/images/missing_train_5x4.png'
+import photo_author from '../assets/foto_jo_2.jpeg'
 
 const Article01 = () => {
     const article = articles[0]
@@ -38,7 +39,7 @@ const Article01 = () => {
                                         className='w-full h-auto max-h-[1300px] object-cover'
                                         // src='\src\assets\images\missing_train_5x4.png'/>
                                         // src={article.photo_url}/>
-                                        src={photo}/>
+                                        src={photo_cover}/>
                                     </div>
                                     <div className='px-6 py-12 sm:px-10 sm:py-14'>
                                         <div className='flex flex-col gap-10 lg:grid lg:grid-cols-[minmax(220px,280px)_1fr] lg:gap-10'>
@@ -48,7 +49,8 @@ const Article01 = () => {
                                                         <div className='flex items-center gap-4'>
                                                             <a>
                                                                 <span className='relative flex shrink-0 overflow-hidden rounded-full h-8 w-8 border border-border transition-opacity hover:opacity-80'>
-                                                                    <img className='aspect-square h-full w-full' src='/src/assets/foto_JO_2.jpeg'/>
+                                                                    {/* <img className='aspect-square h-full w-full' src='/src/assets/foto_JO_2.jpeg'/> */}
+                                                                    <img className='aspect-square h-full w-full' src={photo_author}/>
                                                                 </span>
                                                             </a>
                                                             <a className='hover:text-primary transition-colors'>
