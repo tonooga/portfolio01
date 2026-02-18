@@ -2,6 +2,7 @@ import React from 'react'
 import Hero from './Hero'
 import { FaMapMarker, FaCalendarAlt, FaBook, FaBookReader } from 'react-icons/fa'
 import articles from '../../data/articles.json'
+import photo from '../assets/images/missing_train_5x4.png'
 
 const Article01 = () => {
     const article = articles[0]
@@ -36,7 +37,8 @@ const Article01 = () => {
                                         <img alt={article.photo_alt}
                                         className='w-full h-auto max-h-[1300px] object-cover'
                                         // src='\src\assets\images\missing_train_5x4.png'/>
-                                        src={article.photo_url}/>
+                                        // src={article.photo_url}/>
+                                        src={photo}/>
                                     </div>
                                     <div className='px-6 py-12 sm:px-10 sm:py-14'>
                                         <div className='flex flex-col gap-10 lg:grid lg:grid-cols-[minmax(220px,280px)_1fr] lg:gap-10'>
